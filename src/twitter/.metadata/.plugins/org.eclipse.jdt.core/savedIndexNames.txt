@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\noaka\Documents\??????? ????\Hadasim\twitter\src\twitter\.metadata\.plugins\org.eclipse.jdt.core
